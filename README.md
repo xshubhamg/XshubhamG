@@ -1,71 +1,79 @@
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=35&center=true&vCenter=true&color=f38ba8&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Shubham+Giri!;" />
-</h1>
+Hi!, I'm [Shubham Giri](https://xshubhamg.site),
 
-<div align="center">
-    <img src="/banner.png" />
-</div>
+Self-taught full-stack developer focused on building scalable and real-time web applications. Interested in backend systems, performance optimization, Linux, and developer tooling. Strong foundation in JavaScript ecosystems and system design fundamentals, with hands-on experience building production-style projects.
 
-## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
-
-- 🏦 I'm a Currently pursing by Master's degree in Computer Application
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 📝 I'm interested in fullstack as well as system programming, currently learning golang
-- 💻 I use daily: **.js**, **.ts**, **.py**, **.c**, **.go**
-- 📖 I am currently reading **grokking's Algorithm** by _Aditya Y. Bhargava_
-- 💬 Talk to me about cricket, anime or fictional books
-- 👯 We can connect to play some games of Chess ♟ <a href="https://www.chess.com/member/nerd_shubh">nerd_shubh</a>
-- 🌱 You can find me here:
-
-<p align="center" style="display: flex; gap: 10px;">
-  <a href="https://instagram.com/shubhamm1215">
-    <img src="https://img.shields.io/badge/shubhamm1215-%23DDB6F2.svg?style=for-the-badge&color=DDB6F2&label=instagram&labelColor=363a4f&logo=Instagram&logoColor=cad3f5">
-  </a>
-  <a href="https://x.com/codin_nerd">
-    <img src="https://img.shields.io/badge/codin_nerd-%23B4BEFE.svg?style=for-the-badge&color=B4BEFE&label=x.com&labelColor=363a4f&logo=x&logoColor=cad3f5">
-  </a>
-  <a href="https://github.com/xshubhamg">
-    <img src="https://img.shields.io/badge/xshubhamg-%2312100E.svg?style=for-the-badge&color=A6E3A1&label=github&labelColor=363a4f&logo=GitHub&logoColor=cad3f5">
-  </a>
-    <a href="mailto:shubhammgiri3@gmail.com">
-    <img src="https://img.shields.io/badge/shubham-%23EA4335.svg?style=for-the-badge&color=FAB387&label=gmail&labelColor=363a4f&logo=Gmail&logoColor=cad3f5">
-    </a>
-</p>
-
-<br/>
 <p align="center">
     <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/macchiato.png"/>
 </p>
 
-## 🪵 Technologies, I work with:
+## Repositories I created Recently
+
+- [cc-typescript](https://github.com/xshubhamg/cc-typescript): It is an implementation of claude code agent harness in typescript.
+- [libc](https://github.com/xshubhamg/libc): A collection of native OS tools written in C.
+- [void-draw](https://github.com/xshubhamg/void-draw): A reactive canvas application from scratch with convex.
+
+## Programming Books I'm reading
+
+- [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS/tree/1st-ed) by ___Kyle Simpson___
+- [Every_Layout](https://every-layout.dev/) by ___Hayedon Pickering & Andy Bell___
+- [Let us C](https://pdvpmtasgaon.edu.in/uploads/dptcomputer/Let%20us%20c%20-%20yashwantkanetkar.pdf) by ___Yashwant Kanetkar___
+
+## Technologies I work with
 
 <br />
 
 <div align="center">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=javascript,typescript,c,lua,python,css,go,markdown,nodejs"/>
-        <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,neovim,git,vscode,bash,arch,bun,vite"/>
+        <img src="https://skillicons.dev/icons?i=nextjs,react,typescript,css,tailwindcss,markdown,nodejs,bun"/>
+        <img src="https://skillicons.dev/icons?i=c,go,python,lua,neovim,git,bash,arch"/>
     </a>
 </div>
 
-## 📜 _Github Stats_ :
+## Latest Blog Posts:
 
-![profile-details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xshubhamg&theme=rose_pine)
-![repo-per-language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=xshubhamg&theme=rose_pine)
-![most-commit-language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=xshubhamg&theme=rose_pine)
-![card](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=xshubhamg&theme=rose_pine)
-![productive-time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=xshubhamg&theme=rose_pine&utcOffset=8)
+- [The Journey of Simple Tap](https://thoughts.xshubhamg.site/blog/the-journey-of-the-single-tap)
+- [Jupyter Notebook setup with uv](https://thoughts.xshubhamg.site/blog/jupyter-notebook-with-uv-and-vscode)
+- [Deploy Vite to Github Pages](https://thoughts.xshubhamg.site/blog/deploy-vite-to-github-pages)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xshubhamg/xshubhamg/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xshubhamg/xshubhamg/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/xshubhamg/xshubhamg/output/github-snake.svg" />
-</picture>
+## _Github Stats_ :
+
+![profile-details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xshubhamg&theme=tokyonight)
+![repo-per-language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=xshubhamg&theme=tokyonight)
+![card](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=xshubhamg&theme=tokyonight)
+
 
 <p align="center">
 	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true" />
 </p>
 
-<p align="center">
-	<a href="https://github.com/xshubhamg/xshubhamg/LICENSE"><img src="https://img.shields.io/static/v1.svg?style=for-the-badge&label=License&message=MIT&logoColor=d9e0ee&colorA=363a4f&colorB=b7bdf8"/></a>
+<p align="center" style="display: flex; gap: 10px;">
+<!-- Instagram -->
+<a href="https://instagram.com/shubhamm1215">
+  <img src="https://img.shields.io/badge/Instagram-F5C2E7.svg?style=for-the-badge&logo=instagram&logoColor=1E1E2E">
+</a>
+
+<!-- Medium -->
+<a href="https://medium.com/@xshubhamg">
+  <img src="https://img.shields.io/badge/Medium-F38BA8.svg?style=for-the-badge&logo=medium&logoColor=1E1E2E">
+</a>
+
+<!-- X.com / Twitter -->
+<a href="https://x.com/xshubhamg">
+  <img src="https://img.shields.io/badge/X.com-B4BEFE.svg?style=for-the-badge&logo=x&logoColor=1E1E2E">
+</a>
+
+<!-- LinkedIn -->
+<a href="https://linkedin.com/in/xshubhamg">
+  <img src="https://img.shields.io/badge/LinkedIn-89B4FA.svg?style=for-the-badge&logo=linkedin&logoColor=1E1E2E">
+</a>
+
+<!-- Gmail -->
+<a href="mailto:shubhammgiri3@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-FAB387.svg?style=for-the-badge&logo=gmail&logoColor=1E1E2E">
+</a>
+
+<!-- Chess.com -->
+<a href="https://chess.com/xshubhamg">
+  <img src="https://img.shields.io/badge/Chess.com-A6E3A1.svg?style=for-the-badge&logo=chess.com&logoColor=1E1E2E">
+</a>
 </p>
