@@ -37,9 +37,9 @@ Self-taught full-stack developer focused on building scalable and real-time web 
 
 ## _Github Stats_ :
 
-![profile-details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xshubhamg&theme=tokyonight)
-![repo-per-language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=xshubhamg&theme=tokyonight)
-![card](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=xshubhamg&theme=tokyonight)
+![profile-details](http://github-profile-summary-cards-psi-ten.vercel.app/api/cards/profile-details?username=xshubhamg&theme=catppuccin_mocha)
+![repo-per-language](http://github-profile-summary-cards-psi-ten.vercel.app/api/cards/repos-per-language?username=xshubhamg&theme=catppuccin_mocha)
+![card](http://github-profile-summary-cards-psi-ten.vercel.app/api/cards/stats?username=xshubhamg&theme=catppuccin_mocha)
 
 
 <p align="center">
